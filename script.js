@@ -8,7 +8,7 @@ function createHeart(name) {
   const totalWords = 80;
   const scale = 16;
   // Love you ki jagah Good Night
-  const displayText = `Good Night ${name} 🌙✨`;
+  const displayText = `Shubh Raatri, aaram se soyiha ${name} 🌙✨`;
 
   for (let i = 0; i < totalWords; i++) {
     const el = document.createElement('div');
